@@ -14,7 +14,7 @@ An AI-powered flashcard generator that transforms PDFs into interactive, flip-st
 
 ## 🚀 Demo
 
-🎥 [Watch Demo](#) *(Link your screen-recording here once uploaded to GitHub, Google Drive, or YouTube)*
+🎥 [Watch Demo](https://drive.google.com/file/d/1TMCETfirsa4gy0Z7pGuGwSsbLX4bcG1W/view?usp=sharing)
 
 ---
 
